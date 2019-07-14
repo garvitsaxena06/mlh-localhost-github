@@ -10,6 +10,7 @@ This repository contains the source code for a map of the hometowns of anyone wh
 5. Ask someone else to comment on your pull request.
 6. Wait for the workshop organizer to approve your pull request.
 7. Refresh the map!
+*Hello Folks!*
 
 ## Technologies used in this project
 
